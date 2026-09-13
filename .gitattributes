@@ -1,0 +1,4 @@
+*.ipa binary
+*.zip binary
+*.ipa linguist-generated
+*.zip linguist-generated
