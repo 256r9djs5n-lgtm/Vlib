@@ -4,13 +4,17 @@ Original library for Vel0ra files.
 
 ## IPA
 
-- `ipa/Vel0raBreak.ipa`
-- `ipa/NekoJB-Fixed.ipa`
-- `ipa/nekoJB_2.0.11.ipa`
-- `ipa/nekoJB-signed.ipa`
+| File | Size |
+|---|---|
+| [ipa/Vel0raBreak.ipa](ipa/Vel0raBreak.ipa) | 88.3 MB |
+| [ipa/NekoJB-Fixed.ipa](ipa/NekoJB-Fixed.ipa) | 83.5 MB |
+| [ipa/nekoJB_2.0.11.ipa](ipa/nekoJB_2.0.11.ipa) | 83.8 MB |
+| [ipa/nekoJB-signed.ipa](ipa/nekoJB-signed.ipa) | 83.5 MB |
 
 ## ZIP
 
-- `zip/Velora-theos.zip`
-- `zip/overlay.zip`
-- `zip/NekoJB-Fixed-IPA.zip`
+| File | Size |
+|---|---|
+| [zip/Velora-theos.zip](zip/Velora-theos.zip) | 441 KB |
+| [zip/overlay.zip](zip/overlay.zip) | 784 KB |
+| [zip/NekoJB-Fixed-IPA.zip](zip/NekoJB-Fixed-IPA.zip) | 788 KB |
