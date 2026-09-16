@@ -1,15 +1,19 @@
-# Handle Cups (Roblox)
+# HandleCups (yeni nesil)
 
-Oyun icindeki Handle'li cup tool standlari (Small / Medium / Large).
+Studio'nun acabilecegi temiz cup modeli. Union / SharedString yok.
+SmoothPlastic + Glass + Marble parcalar.
 
-## Studio'ya geri yukleme
+## Yukleme
 
-1. Bu dosyayi indir: `HandleCups.rbxmx`
-2. Roblox Studio'da oyunu ac (Play kapali)
-3. File > Import from File, veya Explorer'da Workspace'e sag tik > Insert from File
-4. `HandleCups.rbxmx` sec
-5. Workspace'te `HandleCupsBackup` modeli gelir
-6. Icine gir: Cups > Small / Medium / Large
-7. Clicker parcasina tiklayinca backpack'e Cup tool gelir (Handle Cup)
+1. `HandleCups.rbxmx` indir
+2. Studio, Play kapali
+3. Workspace sag tik -> Insert from File
+4. Model adi: **HandleCups**
 
-Silinen cuplarin yerine bu modeli koy.
+## Kullanim
+
+Standdaki Small / Medium / Large **Clicker** kutusuna tikla.
+Backpack'e `CupSmall` / `CupMedium` / `CupLarge` gelir (Handle + kahve dolgusu).
+Elindeki bardağa sol tik = icek pozu.
+
+Templates klasorundeki tool'lari StarterPack'e de kopyalayabilirsin.
