@@ -1,19 +1,19 @@
-# HandleCups (yeni nesil)
+# roblox
 
-Studio'nun acabilecegi temiz cup modeli. Union / SharedString yok.
-SmoothPlastic + Glass + Marble parcalar.
+## CoffeeHouseRebuild.rbxmx
+Orijinal coffee house haritasinin union'suz, sifirdan Part rebuild'i.
+SmoothPlastic / Wood / Fabric / Glass / Marble.
 
-## Yukleme
+Icerik:
+- Cafe salonu (zemin, duvar, pencere, lamba)
+- Tezgah: Coffee, Espresso, Decaf, Milk, Tea
+- 20 aroma istasyonu (bardağa değince renk değişir)
+- Cup Small / Medium / Large (Clicker + Handle tool)
+- 6 masa + 24 sandalye (Seat, oturulur)
+- 2 koltuk
+- Donut tezgahi (tikla, yenir)
 
-1. `HandleCups.rbxmx` indir
-2. Studio, Play kapali
-3. Workspace sag tik -> Insert from File
-4. Model adi: **HandleCups**
+Studio: Play kapali -> Workspace sag tik -> Insert from File.
 
-## Kullanim
-
-Standdaki Small / Medium / Large **Clicker** kutusuna tikla.
-Backpack'e `CupSmall` / `CupMedium` / `CupLarge` gelir (Handle + kahve dolgusu).
-Elindeki bardağa sol tik = icek pozu.
-
-Templates klasorundeki tool'lari StarterPack'e de kopyalayabilirsin.
+## HandleCups.rbxmx
+Sadece bardak standi (yedek).
